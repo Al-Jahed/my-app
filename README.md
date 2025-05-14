@@ -1,5 +1,5 @@
 
 
-📦 [Download the App (updated.exe)](https://github.com/yourusername/folder-search-tool/raw/main/updated.exe)
+📦 [Download the App (updated.exe)](https://https://github.com/Al-Jahed/my-app/blob/main/updated.exe)
 
 > 📁 No install needed — just download and run!
